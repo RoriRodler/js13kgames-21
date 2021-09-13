@@ -1,0 +1,20 @@
+{
+  "name": "invitation",
+  "version": "1.0.0",
+  "keywords": [],
+  "description": "",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "node server.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "del": "^6.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "terser": "^5.7.1"
+  }
+}
